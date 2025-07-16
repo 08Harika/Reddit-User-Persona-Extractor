@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python-specific
+__pycache__/
+*.pyc
+.streamlit/
+
+# Environment variables
+.env
+
+# Output folders
+output/
+
+# Jupyter config, if not needed
+etc/
